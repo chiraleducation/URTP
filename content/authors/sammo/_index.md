@@ -1,40 +1,29 @@
 ---
 authors:
-- admin
-bio: Professor's bio ... 
-education:
-  courses:
-  - course: MS.c in Microbiology
-    institution: Name of University 
-    year: 2021
-  - course: MS.c in Microbiology
-    institution: University of Dhaka
-    year: 2017
-  - course: MS.c in Microbiology
-    institution: University of Dhaka
-    year: 2017
-    institution: University of Dhaka
-    year: 2017
-email: "johndoe@gmail.com"
-interests:
-- Public Health
-- Bioinformatics
-- Bioinformatics
-
-name: Prof. Dr. John Doe
+- sammo
+bio: This course will give students a foundation in the principles and practice of
+  data visualization, particularly as applied to scientific and technical data.
+email: ""
+name: Atik Shahriar
 organizations:
-- name: Department of Microbiology
-  url: "https://chiralbd.org/"
-role: Professor
+- name: CHIRAL Bangladesh
+  url: https://chiralbd.org/member/atik_shariar_sammo/
+role: Instructor
 social:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/esrat
+  link: https://www.linkedin.com/in/sammo-jnu/
+- icon: piazza
+  icon_pack: ai
+  link: https://piazza.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/esrat
+  link: https://github.com/samo
+superuser: true
 user_groups:
-- Teaching Assistants
+- Instructors
 ---
 
-In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.
+Md. Atik Shahriar Sammo is an undergraduate student at Jagannath University in Microbiology department. Health data science, bioinformatics, public health is some of his research interests. He is working as project coordinator at CHIRAL Bangladesh. He is confident user of Linux, Python, and R.
+
+Key Skills: Python, Linux, R, KoboToolBox and Advance Google Forms for Data Collection

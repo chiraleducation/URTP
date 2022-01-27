@@ -1,40 +1,27 @@
 ---
 authors:
-- admin
-bio: Professor's bio ... 
-education:
-  courses:
-  - course: MS.c in Microbiology
-    institution: Name of University 
-    year: 2021
-  - course: MS.c in Microbiology
-    institution: University of Dhaka
-    year: 2017
-  - course: MS.c in Microbiology
-    institution: University of Dhaka
-    year: 2017
-    institution: University of Dhaka
-    year: 2017
-email: "johndoe@gmail.com"
-interests:
-- Public Health
-- Bioinformatics
-- Bioinformatics
-
+- steven
+bio: This course will give students a foundation in the principles and practice of
+  data visualization, particularly as applied to scientific and technical data.
+email: ""
 name: Sabia Sultana
 organizations:
-- name: Department of Microbiology
-  url: "https://chiralbd.org/"
+- name: CHIRAL Bangladesh
+  url: https://chiralbd.org/member/sabia_sultana/
 role: Undergrad Research Coordinator
 social:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/esrat
+  link: https://www.linkedin.com/in/sabia-sultana-167108b0/
+- icon: piazza
+  icon_pack: ai
+  link: https://piazza.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/esrat
+  link:
+superuser: true
 user_groups:
-- Organizers
+- Mentors
 ---
 
-In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.
+Sabia Sultana is currently working as an Assistant Professor in the Department of Microbiology at Jagannath University. She has achieved her B.S (Hons) and M.S degree in Microbiology from the University of Dhaka, Bangladesh in 2011 and 2012, respectively. During her MS program, she worked in the Genetics and Bioinformatics Laboratory and completed her thesis on the emergence of ESBL-carbapenemase producing enterobacteriaceae in clinical and environmental sources in Bangladesh.

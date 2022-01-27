@@ -1,28 +1,103 @@
 ---
-title: 'Lecture 01: Basic Statistical Concepts'
-draft: false
-event: 'Fundamentals of Biostatistics'
-event_url: https://biostatsmib.jhossain.com/
-location: Bangladesh
-
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-09-30T08:00:00Z"
-#date_end: "2019-10-02T12:00:00Z"
-all_day: true
-publishdate: "2019-06-15"
-
-links:
-- icon: images
-  icon_pack: fas
-  name: slides
-  url: /slides/templates.html
-
-lastmod: '2019-06-16T02:20:01-07:00'
-projects: []
-weight: 2
+title: "HRT101.S1 - Introduction to Health Research"
+author:
+- name: Jubayer Hossain
+  url: https://jhossain.com
+  affiliation: Founder, CHIRAL Bangladesh
+  affiliation_url: https://chiralbd.org 
+date: "`r Sys.Date()`"
+description: |
+  This course will give students a foundation in research principles and practice, mainly applied to public health. In addition, we will have weekly lectures covering various topics, including research methodology, data collection methods, statistics, R programming, data visualization(human perception, color theory, principles of visual design), etc.
 ---
 
-```{r echo=FALSE}
-knitr::include_url("/slides/templates.html")
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
 ```
+
+```{r meta, echo=FALSE}
+library(metathis)
+meta() %>%
+  meta_general(
+    description = "Make your teaching more robust & reproducible with R Markdown",
+    generator = "xaringan and remark.js"
+  ) %>% 
+  meta_name("github-repo" = "https://github.com/chiraleducation/HRT101.S1") %>% 
+  meta_social(
+    title = "HRT101.S1 - Introduction to Health Research",
+    url = "https://chiraleducation.github.io/HRT101.S1/",
+    image = "",
+    image_alt = "",
+    og_type = "website",
+    twitter_card_type = "summary_large_image"
+  )
+```
+
+## Lesson 1: Introduction to Health Research
+
+```{r share-again, echo=FALSE}
+xaringanExtra::use_share_again()
+```
+
+```{r embed-xaringan-1, echo=FALSE, fig.cap="[Slides](slides/index.html)"}
+xaringanExtra::embed_xaringan(url = "slides/HRT101.S1_Lesson1.html", ratio = "16:9")
+```
+
+## Lesson 2: Literature Review 
+- Why Literature Review
+- Smart Google Searching
+- Literature Databases
+- Developing a Health Research Topic
+- Using Google Scholar
+- Using PubMed
+- Other Biomedical Databases
+
+```{r embed-xaringan-2, echo=FALSE, fig.cap="[Slides](slides/index.html)"}
+xaringanExtra::embed_xaringan(url = "slides/HRT101.S1_Lesson2.html", ratio = "16:9")
+```
+
+## Lesson 3: Scientific Paper Reading and Research Data Management
+- Anatomy of a Scientific Paper
+- How to Read a Scientific Paper Quickly?
+- Academic Phrasebank
+- Identifying Location
+- Research Data Management
+- Documentation: Literature Review Matrix
+- Using Literature Review Matrix Template 
+
+```{r embed-xaringan-3, echo=FALSE, fig.cap="[Slides](slides/index.html)"}
+xaringanExtra::embed_xaringan(url = "slides/HRT101.S1_Lesson3.html", ratio = "16:9")
+```
+
+
+
+## Lesson 4: Study Designs and Sampling Methods	
+- Measures of Diseases Frequency
+- Descriptive Study Designs
+- Analytical Study Designs
+- Experimental Study Design
+- Measurements of Variables
+- Calculating Sample Size and Power
+- Selection of Study Population
+
+```{r embed-xaringan-4, echo=FALSE, fig.cap="[Slides](slides/index.html)"}
+xaringanExtra::embed_xaringan(url = "slides/HRT101.S1_Lesson4.html", ratio = "16:9")
+```
+
+## Lesson 5: Study Plan and Project Management, Principles of Data Collection
+- Principles of Project Management
+- Research Proposal Preparation
+- Elements for a Protocol for Research Studies
+- Principles of Data Collection
+- Designing Data Collection Tools
+- Data Management
+- Data Analysis
+
+```{r embed-xaringan-5, echo=FALSE, fig.cap="[Slides](slides/index.html)"}
+xaringanExtra::embed_xaringan(url = "slides/HRT101.S1_Lesson5.html", ratio = "16:9")
+```
+
+
+
+## Acknowledgments {.appendix}
+
+This is website made with the [distill package](https://rstudio.github.io/distill/) and a custom theme by [Jubayer Hossain](https://jhossain.com/).

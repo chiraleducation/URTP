@@ -4,29 +4,44 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Syllabus"
-  url = "syllabus"
+  name = "Logistics"
+  url = "#logistics"
   weight = 10
 
+# [[main]]
+#   name = "Schedule"
+#   url = "#schedule"
+#   weight = 20
 
 [[main]]
-  name = "Schedule"
-  url = "schedule"
+  name = "Modules"
+  url = "#syllabus"
   weight = 30
-  
-[[main]]
-  name = "Materials"
-  url = "materials"
-  weight = 40
-  
+
 [[main]]
   name = "People"
-  url = "people"
-  weight = 50
+  url = "#people"
+  weight = 40
+
+# [[main]]
+#   name = "Syllabus"
+#   url = "courses/syllabus/"
+#   weight = 50
   
+# [[main]]
+#   name = "Schedule"
+#   url = "/schedule/"
+#   weight = 60
+
 [[main]]
-  pre = "<i class=\"fab fa-discord fa-lg\"></i>"
-  name = ""
-  url = "https://chiralbd.org/"
-  weight = 60
-  
+  name = "Materials"
+  url = "/materials/"
+  weight = 70
+
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70

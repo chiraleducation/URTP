@@ -1,7 +1,7 @@
 ---
-title: "Fundamentals of Biostatistics"
+title: "Course Title"
 session: "01"
-subtitle: "A Gentle Introduction to Biostatistics"
+subtitle: "Lecture Title"
 author: Md. Jubayer Hossain
 date: "`r Sys.Date()`"
 output:
@@ -76,9 +76,9 @@ class: middle, center
 ]
 
 .pull-right[
-### Prof. John Doe  
-[<i class="fab fa-github"></i> @emitanaka](https://github.com/doe)  
-[<i class="fab fa-twitter"></i> @doe](https://twitter.com/doe)
+### CHIRAL Bangladesh 
+[<i class="fab fa-github"></i> @chiraleducation](https://github.com/chiraleducation)  
+[<i class="fab fa-twitter"></i> @chiralbd](https://twitter.com/chiralbd)
 ]
 
 
