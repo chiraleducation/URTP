@@ -40,7 +40,7 @@ social:
   link: https://www.linkedin.com/in/jubayer28/
 superuser: true
 user_groups:
-- Instructors
+- Organizers
 ---
 
 
