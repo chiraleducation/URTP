@@ -1,0 +1,32 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Syllabus"
+  url = "syllabus"
+  weight = 10
+
+
+[[main]]
+  name = "Schedule"
+  url = "schedule"
+  weight = 30
+  
+[[main]]
+  name = "Materials"
+  url = "materials"
+  weight = 40
+  
+[[main]]
+  name = "People"
+  url = "people"
+  weight = 50
+  
+[[main]]
+  pre = "<i class=\"fab fa-discord fa-lg\"></i>"
+  name = ""
+  url = "https://chiralbd.org/"
+  weight = 60
+  
