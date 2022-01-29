@@ -1,40 +1,27 @@
 ---
 authors:
-- admin
-bio: Professor's bio ... 
-education:
-  courses:
-  - course: MS.c in Microbiology
-    institution: Name of University 
-    year: 2021
-  - course: MS.c in Microbiology
-    institution: University of Dhaka
-    year: 2017
-  - course: MS.c in Microbiology
-    institution: University of Dhaka
-    year: 2017
-    institution: University of Dhaka
-    year: 2017
-email: "johndoe@gmail.com"
-interests:
-- Public Health
-- Bioinformatics
-- Bioinformatics
-
-name: Prof. Dr. John Doe
+- tanvir
+bio: This course will give students a foundation in the principles and practice of
+  data visualization, particularly as applied to scientific and technical data.
+email: "deprodasprotay@gmail.com"
+name: Depro Das
 organizations:
-- name: Department of Microbiology
-  url: "https://chiralbd.org/"
-role: Professor
+- name: University of Dhaka 
+  url:
+role: Biochemistry & Molecular Biology
 social:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/esrat
+  link: linkedin.com/in/
+- icon: piazza
+  icon_pack: ai
+  link: https://piazza.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/esrat
+  link:
+superuser: false
 user_groups:
 - Instructors
 ---
+Depro is currently enrolled as a Master’s student at the Department of Biochemistry and Molecular Biology, University of Dhaka. Apart from his broad exposure to life-science, he is an enthusiast of genomic and transcriptomic data science. R is his primary language for data analysis. 
 
-In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.

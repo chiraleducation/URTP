@@ -9,7 +9,7 @@ menu:
     weight: 1
 summary: Learn how to use Academic's docs layout for publishing online courses, software
   documentation, and tutorials.
-title: Introduction to Genomic Data Science
+title: Undergraduate Research Training Program(URTP)
 toc: true 
 type: docs
 weight: 1
@@ -17,9 +17,14 @@ weight: 1
 
 
 ## Course Description
-This course will give students a foundation in research principles and practice, mainly applied to public health. In addition, we will have weekly lectures covering various topics, including research methodology, data collection methods, statistics, R programming, data visualization(human perception, color theory, principles of visual design), etc.
+The Undergraduate Research Training Program(URTP) provides intermediate-level biomedical research projects for undergraduates in a supportive environment with supplement educational activities.
 
-We will also have weekly hands-on laboratory sessions in which students will have the opportunity to put the lecture material into practice
+The program offers:
+- 24 weeks of biomedically related research in a broad range of areas
+- Research and professional development seminars designed for undergraduates
+- Career development activities
+- Higher study tips 
+
 
 ## Course Objectives
 - Provides fundamentals of research methodology concepts.
@@ -39,12 +44,16 @@ We will also have weekly hands-on laboratory sessions in which students will hav
 - Building and evaluating classification model using R
 
 ## Benifits and Rewards
-- Solid understanding of basic health research methodology
+- Solid understanding of basic biomedical research methodology
 - Based on the performance students will be given Research Assistantship(RA) oppurtunities to conduct research with CHIRAL Bangladesh research team in active projects.
 - Recommendations
 - Completion Certificate
 
 ## Who this course is for
+We welcome students from all science and bioscience majors, and even non-science majors with appropriate background and interest. Projects span the spectrum of biomedical science, including projects in public health, health data science and computational biology.
+
+
+
 - If you have no research experience but want to learn the necessary concepts in health research- then this is the right place for you to begin with.
 - If you have no data analysis experience but want learn end-to-end data analysis process from data collection to report writing- then this course is a great one to start.
 - If you have some experience but are not confident enough to start your project, you can start from here.
@@ -104,60 +113,13 @@ If we determine that you have willfully palagiarized an assignment, you will rec
 Each of us has a different learning style, and We will do our best to accomodate diverse learning needs in the class. If you need any kind of accomodation, please come and talk to us as soon as you can so we can arrange a style of learning that works for you.
 
 ## Course Modules
-
-<table border = "1">
-        <tr>
-            <th style="text-align:center">Course Code</th>
-            <th style="text-align:center">Course Name</th>
-            <th style="text-align:center">Week(s)</th>
-            <th style="text-align:center">Instructor(s)</th>
-        </tr>
-        <tr>
-           <td>HRT101</td>
-           <td>Introduction to Health Research</td>
-           <td>3</td>
-           <td> Dr. Tasneem, Dr. Tanvir, Jubayer Hossain</td>
-        </tr>
-        <tr>
-           <td>HRT102</td>
-           <td>NIH Research Ethics</td>
-           <td>1</td>
-           <td>Dr. Ashok, Dr. Tanvir, Jubayer Hossain</td>
-        </tr>
-         <tr>
-           <td>HRT103</td>
-           <td>Applied Biotatistics for Beginners</td>
-           <td>4</td>
-           <td>Jubayer Hossain</td>
-        </tr>
-        <tr>
-           <td>HRT104</td>
-           <td>Tools for Data Collection</td>
-           <td>1</td>
-           <td>Atik Shahariar, Wahid Arafat</td>
-        </tr>
-        <tr>
-           <td>HRT105</td>
-           <td>Introduction to R for Health Data Analysis</td>
-            <td>4</td>
-            <td>Jubayer Hossain</td>
-        </tr>
-        <tr>
-           <td>HRT106</td>
-           <td>Academic Writing with LaTeX</td>
-            <td>1</td>
-            <td>Atik Shahariar, Muhibullah Sahajan, Jubayer Hossain</td>
-        </tr>
-      <tr>
-           <td>HRT107</td>
-           <td>Tools and Softwares for Research</td>
-            <td>1</td>
-            <td>Atik Shahariar, Jubayer Hossain</td>
-      </tr>
-      <tr>
-           <td>HRT108</td>
-           <td>Research Project</td>
-            <td>1</td>
-            <td>Dr. Tasneem, Sabia Sultana, Dr. Jannatul Ferdous, Dr. Tanvir, Dr. Ashok</td>
-      </tr>
- </table>
+- URTP101.S1: Fundamentals of Research
+- URTP102.S1: Introduction to Research Ethics
+- URTP103.S1: Literature Databases Searching Strategies
+- URTP104.S1: Research Data Management(RDM)
+- URTP105.S1: Scientific Paper Reading and Data Extraction
+- URTP106.S1: Literature Review Writing
+- URTP107.S1: Introduction to Systematic Review and Meta Analysis
+- URTP108.S1: Fundamentals of Statistics
+- URTP109.S1: R for Data Analysis
+- URTP1010.S1: Reporting with R Markdwon

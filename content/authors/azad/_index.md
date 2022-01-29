@@ -21,7 +21,7 @@ interests:
 - Bioinformatics
 - Bioinformatics
 
-name: Sajjad Hossain
+name: Abul Kalam Azad 
 organizations:
 - name: Department of Microbiology
   url: "https://chiralbd.org/"
@@ -29,10 +29,10 @@ role: Guest Speaker
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/esrat
-- icon: github
+  link: 
+- icon: researchgate
   icon_pack: fab
-  link: https://github.com/esrat
+  link: 
 user_groups:
 - Guest Speakers
 ---

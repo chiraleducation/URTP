@@ -21,11 +21,11 @@ interests:
 - Bioinformatics
 - Bioinformatics
 
-name: Prof. Dr. John Doe
+name: Manisha Das
 organizations:
 - name: Department of Microbiology
   url: "https://chiralbd.org/"
-role: Professor
+role: Teaching Assistant
 social:
 - icon: twitter
   icon_pack: fab

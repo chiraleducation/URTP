@@ -52,11 +52,11 @@ subtitle = ""
 
 ## Moudles
 URTP101.S1: Fundamentals of Research<br>
-URTP102.S1: Introduction Research Ethics<br>
+URTP102.S1: Introduction to Research Ethics<br>
 URTP103.S1: Literature Databases Searching Strategies<br>
 URTP104.S1: Research Data Management(RDM)<br>
 URTP105.S1: Scientific Paper Reading and Data Extraction<br>
-URTP106.S1: Writing Literature Review<br>
+URTP106.S1: Literature Review Writing<br>
 URTP107.S1: Introduction to Systematic Review and Meta Analysis<br>
 URTP108.S1: Fundamentals of Statistics<br>
 URTP109.S1: R for Data Analysis<br>

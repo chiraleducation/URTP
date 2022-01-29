@@ -21,18 +21,18 @@ interests:
 - Bioinformatics
 - Bioinformatics
 
-name: Prof. Dr. John Doe
+name: Muhammad Tareque Hasan
 organizations:
 - name: Department of Microbiology
   url: "https://chiralbd.org/"
-role: Professor
+role:  Guest Speaker
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/esrat
-- icon: github
+  link: 
+- icon: researchgate
   icon_pack: fab
-  link: https://github.com/esrat
+  link: 
 user_groups:
 - Guest Speakers
 ---

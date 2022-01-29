@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: This course will give students a foundation in research principles and practice, mainly applied to public health.
+bio: The Undergraduate Research Training Program(URTP) provides intermediate-level biomedical research projects for undergraduates in a supportive environment with supplement educational activities.
 email: ""
 name: null
 organizations:
@@ -28,4 +28,4 @@ user_groups:
 - Visitors
 ---
 
-Undergraduate Research Training Program(URTP) will provide undergraduate students a foundation in fundamentals of research. In addition, we will have weekly lectures covering various topics, including research methodology, research ethics, literature review, data collection methods, statistics, R programming, data visualization(human perception, color theory, principles of visual design), etc. 
+The Undergraduate Research Training Program(URTP) provides intermediate-level biomedical research projects for undergraduates in a supportive environment with supplement educational activities. 

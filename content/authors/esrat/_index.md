@@ -21,20 +21,20 @@ interests:
 - Bioinformatics
 - Bioinformatics
 
-name: Prof. Dr. John Doe
+name: Dr. Esrat Jahan
 organizations:
 - name: Department of Microbiology
   url: "https://chiralbd.org/"
-role: Professor
+role: Mentor
 social:
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/esrat
-- icon: github
+  link: 
+- icon: researchgate
   icon_pack: fab
-  link: https://github.com/esrat
+  link: 
 user_groups:
-- Teaching Assistants
+- Mentors
 ---
 
 In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.

@@ -10,15 +10,12 @@ organizations:
   url: https://chiralbd.org/member/sabia_sultana/
 role: Undergrad Research Coordinator
 social:
-- icon: linkedin
+- icon: twitter
   icon_pack: fab
-  link: https://www.linkedin.com/in/sabia-sultana-167108b0/
-- icon: piazza
-  icon_pack: ai
-  link: https://piazza.com/
-- icon: github
+  link: 
+- icon: researchgate
   icon_pack: fab
-  link:
+  link: 
 superuser: true
 user_groups:
 - Mentors
