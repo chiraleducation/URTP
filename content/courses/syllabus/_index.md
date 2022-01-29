@@ -25,6 +25,21 @@ The program offers:
 - Career development activities
 - Higher study tips 
 
+## Regular progress: the research road map
+1. Developing a answerable research question
+2. Developing a testable hypothesis
+3. Background reading and generating a bibliography
+4. Developing a research plan and timetable
+5. Submission of a proposal for funds
+6. Presentation of preliminary data at weekly meeting
+7. Draft final report
+8. Submission of final report
+9. Presentation at meeting/conference
+
+## Publication of Results
+Good research needs to be published. Your aim should be to do high-quality work and collect publishable data even if your project may not be publishable as a stand-alone contribution.  If your data are publishable, you may be a co-author on a paper. This will be discussed when appropriate.
+
+
 
 ## Course Objectives
 - Provides fundamentals of research methodology concepts.
