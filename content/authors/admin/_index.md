@@ -3,9 +3,9 @@ authors:
 - admin
 bio: The Undergraduate Research Training Program(URTP) provides intermediate-level biomedical research projects for undergraduates in a supportive environment with supplement educational activities.
 email: ""
-name: null
+name: URTP
 organizations:
-- name: URTP, CHIRAL Bangladesh
+- name: CHIRAL Bangladesh
   url: https://www.chiralbd.org/
 role: null
 social:
