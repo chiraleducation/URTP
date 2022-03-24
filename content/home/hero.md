@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
-title = "Who Can Join?"
+title = "About URTP"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 hero_media = "join.jpg"
@@ -50,7 +50,9 @@ hero_media = "join.jpg"
 [cta_note]
   label = 'Course Fee: 15,300 BDT, No. of Seats: 50 , Deadline: March 15. 2022(Probable). Welcome Class: May 15, 2022 January(Probable)'
 +++
-If you are an undergraduate student and have no research experience but want to learn the necessary concepts in health research- then this is the right place for you to begin with.
+
+The Undergraduate Research Training Program (URTP) provides students with high-quality research training in a supportive setting with other educational activities. The URTP is a comprehensive program aimed at developing better-prepared undergraduate researchers. The URTP includes research methods, ethics, literature reviews, data analysis, academic writing workshops, a student-focused curriculum, and an online discussion forum to help students figure out what they need.
+
 
 
 <!--

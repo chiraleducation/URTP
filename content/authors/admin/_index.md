@@ -26,9 +26,4 @@ user_groups:
 - Researchers
 - Visitors
 ---
-Undergraduate research allows students to develop professionally and personally in ways not possible through traditional lecture and laboratory courses. Research is an important theme that threads its way through the undergraduate experience from the first year through to graduation.
-
-Undergraduate research experience involves students in an original research project.  Using one or a variety of methods, students will collect original data and contribute to problem solving in the Earth Sciences.  As a first research experience, emphasis will be placed on the process of scientific research, including formulation of a research plan, data collection, assessment of data quality, and interpretation based on available data.  Students are required to present their results to an audience outside of the department.
-
-
-The Undergraduate Research Training Program(URTP) provides intermediate-level biomedical research projects for undergraduates in a supportive environment with supplement educational activities. 
+The Undergraduate Research Training Program (URTP) provides students with high-quality research training in a supportive setting with other educational activities. The URTP is a comprehensive program aimed at developing better-prepared undergraduate researchers. The URTP includes research methods, ethics, literature reviews, data analysis, academic writing workshops, a student-focused curriculum, and an online discussion forum to help students figure out what they need.
