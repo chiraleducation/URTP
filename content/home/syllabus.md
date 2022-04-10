@@ -29,7 +29,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
 
   # Background image.
-  image = "headers/mod_back.jpg"  # Name of image in `static/img/`.
+  image = "headers/modules.jpg"  # Name of image in `static/img/`.
   image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
@@ -50,22 +50,24 @@ subtitle = ""
  css_class = ""
 +++
 
-## Moudles
-URTP101.S1: Fundamentals of Research<br>
-URTP102.S1: Introduction to Research Ethics<br>
-URTP103.S1: Literature Databases Searching Strategies<br>
-URTP104.S1: Research Data Management(RDM)<br>
-URTP105.S1: Scientific Paper Reading and Data Extraction<br>
-URTP106.S1: Literature Review Writing<br>
-URTP107.S1: Introduction to Systematic Review and Meta Analysis<br>
-URTP108.S1: Fundamentals of Statistics<br>
-URTP109.S1: R for Data Analysis<br>
-URTP1010.S1: Reporting with R Markdwon<br>
+## URTP Moudles
+URTP101: Fundamentals of Research<br>
+URTP102: Ethics in Research <br>
+URTP103: Literature Review in Health Sciences<br>
+URTP107: Applied Statistics for Beginners<br>
+URTP106: Tools for Data Collection<br>
+URTP108: Introduction to R<br>
+URTP109: Data Management with R<br>
+URTP1010: Data Visualization with R<br>
+URTP1011: Visualizing Geospatial Data in R<br>
+URTP1011: Interpreting Data Using Descriptive Statistics with R<br>
+URTP1011: Interpreting Data Using Statistical Models with R<br>
+URTP1011: Reporting with R Markdwon<br>
+URTP1011: Introduction to Academic Writing<br>
+URTP1011: Academic Writing with LaTeX<br>
+URTP1011: Productive Tools for Research<br>
 
 
-## References
-Data Analysis for the Life Sciences with R by Michael I. Love, Rafael Irizarry <br>
-Statistics for Genomic Data Science by Jeff Leek<br>
-Bioinformatics For Dummies by  Cedric Notredame and Jean-Michel Claverie<br>
-Applied Medical Statistics for Beginners by Dr. Mohamed Elsherif <br>
-Introduction to R Programming by Dr. Roger D. Peng <br>
+
+
+

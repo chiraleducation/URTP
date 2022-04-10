@@ -27,3 +27,10 @@ user_groups:
 - Visitors
 ---
 The Undergraduate Research Training Program (URTP) provides students with high-quality research training in a supportive setting with other educational activities. The URTP is a comprehensive program aimed at developing better-prepared undergraduate researchers. The URTP includes research methods, ethics, literature reviews, data analysis, academic writing workshops, a student-focused curriculum, and an online discussion forum to help students figure out what they need.
+
+The program offers: 
+- 52 weeks of biomedically related research in a broad range of areas
+- Research and professional development seminars designed for undergraduates
+- Career development activities
+- Higher study tips
+
