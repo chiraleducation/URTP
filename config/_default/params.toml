@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = "CHIRAL Bangladesh"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "The Center for Health Innovation, Research, Action and Learning - Bangladesh (CHIRAL Bangladesh) is a non-profit health research organization in Bangladesh"
+description = "The Undergraduate Research Training Program (URTP) is aimed at developing better-prepared undergraduate researchers."
 
 ############################
 ## Site Features
