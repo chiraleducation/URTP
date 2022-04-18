@@ -21,20 +21,20 @@ interests:
 - Bioinformatics
 - Bioinformatics
 
-name: Muhammad Tareque Hasan
+name: Nafisa Anjum Holy
 organizations:
 - name: Department of Microbiology
   url: "https://chiralbd.org/"
-role:  Instructor
+role: Teaching Assistant
 social:
 - icon: twitter
   icon_pack: fab
-  link: 
-- icon: researchgate
+  link: https://twitter.com/esrat
+- icon: github
   icon_pack: fab
-  link: 
+  link: https://github.com/esrat
 user_groups:
-- Instructors
+- Teaching Assistants
 ---
 
 In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.

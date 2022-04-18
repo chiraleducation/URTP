@@ -7,7 +7,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "URTP Team"
-subtitle = ""
+subtitle = "We have quality instructors, mentors, and guest speakers. Course participants will do a project under our esteemed mentors. Furthermore, the guest speakers will help to instruct our participants regarding higher studies, professional guidelines, and research roadmap."
 
 [content]
   # Choose which groups/teams of users to display.
@@ -35,7 +35,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
 
   # Background image.
-  image = "headers/Clouds2.jpg"  # Name of image in `static/img/`.
+  image = ""  # Name of image in `static/img/`.
   image_darken = 0  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
