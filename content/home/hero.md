@@ -48,7 +48,7 @@ hero_media = "join.jpg"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Course Fee: 15,300 BDT, No. of Seats: 50 , Deadline: March 15. 2022(Probable). Welcome Class: May 15, 2022 January(Probable)'
+  label = 'Course Fee: 12,240 BDT (bKash Charge Included), No. of Seats: 50 , Pre-registration Deadline: May 15. 2022. Orientation & Agreement: May 20, 2022, Class Start: 1 June, 2022'
 +++
 
 The Undergraduate Research Training Program (URTP) is aimed at developing better-prepared undergraduate researchers.

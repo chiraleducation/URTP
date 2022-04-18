@@ -6,7 +6,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "URTP.S1 Team"
+title = "URTP Team"
 subtitle = ""
 
 [content]

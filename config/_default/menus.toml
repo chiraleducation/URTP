@@ -13,10 +13,7 @@
 #   url = "#schedule"
 #   weight = 20
 
-[[main]]
-  name = "Modules"
-  url = "#syllabus"
-  weight = 30
+
 
 [[main]]
   name = "People"
