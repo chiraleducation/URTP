@@ -5,10 +5,10 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 50 # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 70 # Order that this section will appear.
 
-title = "Modules"
+title = "Training Modules"
 subtitle = ""
 
 [design]
@@ -29,14 +29,14 @@ subtitle = ""
   # gradient_end = "SkyBlue"
 
   # Background image.
-  image = "headers/modules.jpg"  # Name of image in `static/img/`.
+  image = ""  # Name of image in `static/img/`.
   image_darken = 0.3  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -50,24 +50,13 @@ subtitle = ""
  css_class = ""
 +++
 
-## URTP Moudles
-URTP101: Fundamentals of Research<br>
-URTP102: Ethics in Research <br>
-URTP103: Literature Review in Health Sciences<br>
-URTP107: Applied Statistics for Beginners<br>
-URTP106: Tools for Data Collection<br>
-URTP108: Introduction to R<br>
-URTP109: Data Management with R<br>
-URTP1010: Data Visualization with R<br>
-URTP1011: Visualizing Geospatial Data in R<br>
-URTP1011: Interpreting Data Using Descriptive Statistics with R<br>
-URTP1011: Interpreting Data Using Statistical Models with R<br>
-URTP1011: Reporting with R Markdwon<br>
-URTP1011: Introduction to Academic Writing<br>
-URTP1011: Academic Writing with LaTeX<br>
-URTP1011: Productive Tools for Research<br>
-
-
-
+|Code| Course Title |Sessions|
+|:-----------|:-------|:--------|
+|URTP101|Fundamentals of Research| 8|
+|URTP102|Literature Review – Concepts and Search Strategies| 8|
+|URTP103|Ethics in Research – Understand the Need for Ethical Guidelines in Research| 8|
+|URTP104|A Gentle Introduction to Programming Using Python for Research| 8|
+|URTP105|Applied Biostatistics for Beginners| 8|
+|URTP106|Introduction to R Programming for Health Data Analysis| 8|
 
 
