@@ -48,7 +48,7 @@ hero_media = "join.jpg"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
-  label = 'Course Fee: 12,240 BDT (bKash Charge Included), No. of Seats: 50 , Pre-registration Deadline: May 15. 2022. Orientation & Agreement: May 20, 2022, Class Start: 1 June, 2022; Before enrollment please check the [payment method]()'
+  label = '[Please Check Payment Method First!](https://urtp.chiralbd.org/courses/syllabus/payment/) Course Fee: 12,240 BDT (bKash Charge Included), Monthly Fee: 1,020BDT (bKash Charge Includede), No. of Seats: 50 , Pre-registration Deadline: May 15. 2022. Orientation & Agreement: May 20, 2022, Class Start: 1 June, 2022'
 +++
 
 The Undergraduate Research Training Program (URTP) is aimed at developing better-prepared undergraduate researchers.
