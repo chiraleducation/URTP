@@ -29,10 +29,10 @@ name = "Syllabus"
 url = "courses/syllabus/"
 weight = 50
   
-# [[main]]
-#   name = "Schedule"
-#   url = "/schedule/"
-#   weight = 60
+[[main]]
+  name = "Schedule"
+  url = "https://docs.google.com/spreadsheets/d/19O7z95We0cv8INWuARNzUI_iYVASlbBOprEPl3pO0kw/edit?usp=sharing"
+ weight = 60
 
 
 # Link to a PDF of your resume/CV from the menu.
