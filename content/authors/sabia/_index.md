@@ -6,19 +6,14 @@ bio: This course will give students a foundation in the principles and practice 
 email: ""
 name: Sabia Sultana
 organizations:
-- name: CHIRAL Bangladesh
-  url: https://chiralbd.org/member/sabia_sultana/
-role: Undergrad Research Coordinator
+- name: Undergraduate Research Training Program
+  url: https://urtp.chiralbd.org/
+role: Mentor 
 social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sabia-sultana-167108b0/
-- icon: piazza
-  icon_pack: ai
-  link: https://piazza.com/
-- icon: github
-  icon_pack: fab
-  link:
+
 superuser: true
 user_groups:
 - Mentors

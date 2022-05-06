@@ -1,40 +1,30 @@
 ---
 authors:
 - admin
-bio: Professor's bio ... 
+bio: I'm Nafisa Anjum Holy from Sir Salimullah Medical College Dental Unit. I joined CHIRAL BANGLADESH last year as a  voluntary research assistant and worked on a few projects with the team. As I joined, I got to learn a lot of things from them. I hope I can get along well with everyone and learn new things altogether. 
 education:
   courses:
-  - course: MS.c in Microbiology
-    institution: Name of University 
-    year: 2021
-  - course: MS.c in Microbiology
-    institution: University of Dhaka
-    year: 2017
-  - course: MS.c in Microbiology
-    institution: University of Dhaka
-    year: 2017
-    institution: University of Dhaka
-    year: 2017
-email: "johndoe@gmail.com"
+  - course: Dentistry 
+    institution: Sir Salimullah Medical College Dental Unit 
+    year: 
+
+email: "holynafisaanjum@gmail.com"
 interests:
 - Public Health
-- Bioinformatics
-- Bioinformatics
+
 
 name: Nafisa Anjum Holy
 organizations:
 - name: Department of Microbiology
   url: "https://chiralbd.org/"
 role: Teaching Assistant
+
 social:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/esrat
-- icon: github
-  icon_pack: fab
-  link: https://github.com/esrat
+  link: https://www.linkedin.com/in/holynafisaanjum
 user_groups:
 - Teaching Assistants
 ---
 
-In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.
+I'm Nafisa Anjum Holy from Sir Salimullah Medical College Dental Unit. I joined CHIRAL BANGLADESH last year as a  voluntary research assistant and worked on a few projects with the team. As I joined, I got to learn a lot of things from them. I hope I can get along well with everyone and learn new things altogether. 

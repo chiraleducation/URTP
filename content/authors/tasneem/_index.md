@@ -1,21 +1,19 @@
 ---
 authors:
-- steven
-bio: This course will give students a foundation in the principles and practice of
-  data visualization, particularly as applied to scientific and technical data.
+- tasneem
+bio: 
 email: ""
-name: Dr. Syedatasneem Towhid
+name: Dr. Syeda Tasneem Towhid
 organizations:
-- name: CHIRAL Bangladesh
-  url: https://chiralbd.org/member/syedatasneem_towhid/
-role: Director
+- name: Undergraduate Research Training Program
+
+  url: https://urtp.chiralbd.org/
+role: Mentor 
 social:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: 
-- icon: researchgate
-  icon_pack: fab
-  link: 
+  link: https://www.linkedin.com/in/syeda-tasneem-towhid-6a92a4186/
+
 superuser: false
 user_groups:
 - Mentors

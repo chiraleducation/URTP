@@ -37,7 +37,7 @@ hero_media = "join.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "#"
+  url = "https://forms.gle/zVAsBwt1UDgT9ZcW7"
   label = "Enroll"
   icon_pack = "fas"
   icon = "pen-nib"

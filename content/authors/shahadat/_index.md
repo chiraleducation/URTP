@@ -1,25 +1,18 @@
 ---
 authors:
 - admin
-bio: Professor's bio ... 
+bio: I'm Shahadat , a Teaching Assistant(TA) in CHIRAL Bangladesh who helps instructors  to prepare class materials , assignments and quizzes. I believe that through these  courses there are lots to be learned from here. I'm also pursuing B.sc in Microbiology  at Jagannath University , Dhaka, Bangladesh and a Research Assistant(RA) in CHIRAL Bangladesh.  Biotechnology, Bioinformatics, Public health ,Virology are some of my research interests.
 education:
   courses:
-  - course: MS.c in Microbiology
-    institution: Name of University 
-    year: 2021
-  - course: MS.c in Microbiology
-    institution: University of Dhaka
-    year: 2017
-  - course: MS.c in Microbiology
-    institution: University of Dhaka
-    year: 2017
-    institution: University of Dhaka
-    year: 2017
-email: "johndoe@gmail.com"
+  - course: BS.c in Microbiology
+    institution: Jagannath University
+    year: 
+ 
+email: "shahadat78295@gmail.com"
 interests:
 - Public Health
 - Bioinformatics
-- Bioinformatics
+
 
 name: Md. Shahadat Bin Shahid
 organizations:
@@ -27,14 +20,10 @@ organizations:
   url: "https://chiralbd.org/"
 role: Teaching Assistant
 social:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/esrat
-- icon: github
-  icon_pack: fab
-  link: https://github.com/esrat
+  link: https://www.linkedin.com/in/md-shahadat-bin-shahid-4a0348238
 user_groups:
 - Teaching Assistants
 ---
-
-In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.
+I'm Shahadat , a Teaching Assistant(TA) in CHIRAL Bangladesh who helps instructors  to prepare class materials , assignments and quizzes. I believe that through these  courses there are lots to be learned from here. I'm also pursuing B.sc in Microbiology  at Jagannath University , Dhaka, Bangladesh and a Research Assistant(RA) in CHIRAL Bangladesh.  Biotechnology, Bioinformatics, Public health ,Virology are some of my research interests.

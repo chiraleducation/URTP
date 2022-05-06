@@ -21,7 +21,7 @@ social:
   link: https://github.com/hossainlab
 superuser: true
 user_groups:
-- Instructors
+- Lead Organizer
 ---
 Jubayer is a Microbiology Master’s student at Jagannath University and a Health Data Science enthusiast. Health data science, bioinformatics, public health are some of his research interests. He founded the CHIRAL Bangladesh as well.
 

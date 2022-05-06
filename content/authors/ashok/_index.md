@@ -6,19 +6,14 @@ bio: This course will give students a foundation in the principles and practice 
 email: "ashok@gmail.com"
 name: Dr. Ashok Kumar Barman
 organizations:
-- name: CHIRAL Bangladesh 
-  url:
-role: Instructor, MBBS, ICDDR,B
+- name: Undergraduate Research Training Program
+  url: https://urtp.chiralbd.org/
+role: Instructor
 social:
 - icon: linkedin
   icon_pack: fab
   link: linkedin.com/in/ashok-kumar-barman-46b31517b
-- icon: piazza
-  icon_pack: ai
-  link: https://piazza.com/
-- icon: github
-  icon_pack: fab
-  link:
+
 superuser: false
 user_groups:
 - Instructors
