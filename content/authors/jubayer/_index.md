@@ -4,7 +4,7 @@ authors:
 bio: This course will give students a foundation in the principles and practice of
   data visualization, particularly as applied to scientific and technical data.
 email: ""
-name: Md. Jubayer Hossain
+name: Md.Jubayer Hossain
 organizations:
 - name: CHIRAL Bangladesh
   url: https://www.chiralbd.org/
