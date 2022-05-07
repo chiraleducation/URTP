@@ -4,7 +4,7 @@ authors:
 bio: This course will give students a foundation in the principles and practice of
   data visualization, particularly as applied to scientific and technical data.
 email: ""
-name: Jubayer Hossain
+name: Md. Jubayer Hossain
 organizations:
 - name: CHIRAL Bangladesh
   url: https://www.chiralbd.org/
@@ -21,7 +21,7 @@ social:
   link: https://github.com/hossainlab
 superuser: true
 user_groups:
-- Lead Organizer
+- Instructors
 ---
 Jubayer is a Microbiology Master’s student at Jagannath University and a Health Data Science enthusiast. Health data science, bioinformatics, public health are some of his research interests. He founded the CHIRAL Bangladesh as well.
 
