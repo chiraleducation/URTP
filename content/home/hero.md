@@ -43,8 +43,8 @@ hero_media = "join.jpg"
   icon = "pen-nib"
 
 [cta_alt]
-  url = "https://urtp.chiralbd.org/courses/syllabus/"
-  label = "Course Details"
+  url = "https://urtp.chiralbd.org/courses/syllabus/payment/"
+  label = "Payment Method"
 
 # Note. An optional note to show underneath the links.
 [cta_note]
