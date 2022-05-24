@@ -51,7 +51,7 @@ hero_media = "join.jpg"
   label = ''
 +++
 
-The Undergraduate Research Training Program (URTP) is aimed at developing better-prepared undergraduate researchers.
+The Undergraduate Research Training Program (URTP) aims to develop better-prepared undergraduate researchers.
 
 
 
